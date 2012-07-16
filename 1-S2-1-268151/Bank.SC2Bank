@@ -11,11 +11,11 @@
             <Value int="80"/>
         </Key>
         <Key name="awf">
-            <Value int="78"/>
+            <Value int="79"/>
         </Key>
         <Key name="elo">
-            <Value int="1486"/>
+            <Value int="1504"/>
         </Key>
     </Section>
-    <Signature value="2D78E5A318B058A91AA8DA1431A8CBC18F7917C5"/>
+    <Signature value="C5B76749E8171B4E6274FB3656C568285FF14363"/>
 </Bank>
