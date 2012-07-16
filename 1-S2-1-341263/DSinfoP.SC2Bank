@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Pstats">
+        <Key name="Games Played">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="DD04DC9720A364F883047F2865B5CBBAA4802C35"/>
+</Bank>
