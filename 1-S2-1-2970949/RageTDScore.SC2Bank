@@ -5,14 +5,14 @@
             <Value int="1"/>
         </Key>
         <Key name="Wins">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="Thiefs">
             <Value int="0"/>
         </Key>
         <Key name="Score">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="6121D7B3AD659AFEEFE7EF6B1CA2EC30FC2FFAA7"/>
+    <Signature value="67AEA4798EB3607295576212EE5BFC35CF02EE6F"/>
 </Bank>
