@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Pstats">
+        <Key name="XPz">
+            <Value int="5"/>
+        </Key>
+        <Key name="XPp">
+            <Value int="28"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="4"/>
+        </Key>
+        <Key name="Games Played">
+            <Value int="14"/>
+        </Key>
+        <Key name="XPt">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="Player Code">
+        <Key name="0">
+            <Value string="-56494.14"/>
+        </Key>
+    </Section>
+    <Section name="Team Code">
+        <Key name="Last Team">
+            <Value string="106787.11"/>
+        </Key>
+    </Section>
+</Bank>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Section">
+        <Key name="ljo">
+            <Value int="3"/>
+        </Key>
+        <Key name="changelog">
+            <Value int="4"/>
+        </Key>
+        <Key name="fes">
+            <Value int="80"/>
+        </Key>
+        <Key name="awf">
+            <Value int="78"/>
+        </Key>
+        <Key name="elo">
+            <Value int="1486"/>
+        </Key>
+    </Section>
+    <Signature value="2D78E5A318B058A91AA8DA1431A8CBC18F7917C5"/>
+</Bank>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Completion">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="0">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>

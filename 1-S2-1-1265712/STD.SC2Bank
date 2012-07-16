@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Masterboard">
+        <Key name="Category">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Data">
+        <Key name="Kills">
+            <Value int="6807"/>
+        </Key>
+        <Key name="Experience">
+            <Value int="50308"/>
+        </Key>
+        <Key name="Income">
+            <Value int="2435"/>
+        </Key>
+        <Key name="Waves">
+            <Value int="579"/>
+        </Key>
+        <Key name="Leaks">
+            <Value int="1645"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="13"/>
+        </Key>
+        <Key name="Version">
+            <Value int="3"/>
+        </Key>
+        <Key name="Games">
+            <Value int="42"/>
+        </Key>
+        <Key name="Minutes">
+            <Value int="1000"/>
+        </Key>
+        <Key name="Prestige">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Preferences">
+        <Key name="Builder">
+            <Value int="8"/>
+        </Key>
+        <Key name="Switches">
+            <Value string=" 1 0 1 0 1"/>
+        </Key>
+    </Section>
+    <Signature value="F0C6D04DEC00E876D566D9896370882851F43671"/>
+</Bank>
