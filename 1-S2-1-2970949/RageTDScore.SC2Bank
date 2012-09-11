@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bank version="1">
     <Section name="Player">
-        <Key name="Loses">
+        <Key name="Difficulty">
+            <Value int="3"/>
+        </Key>
+        <Key name="XP">
+            <Value fixed="67180.7075"/>
+        </Key>
+        <Key name="Mode">
             <Value int="1"/>
         </Key>
-        <Key name="Wins">
+        <Key name="Speed">
+            <Value int="1"/>
+        </Key>
+        <Key name="Loses">
             <Value int="2"/>
         </Key>
+        <Key name="Wins">
+            <Value int="6"/>
+        </Key>
         <Key name="Thiefs">
-            <Value int="0"/>
+            <Value int="3"/>
         </Key>
         <Key name="Score">
             <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="67AEA4798EB3607295576212EE5BFC35CF02EE6F"/>
+    <Signature value="EEB0FCCE6F671E745BC0A967D911CB161C3F0C3E"/>
 </Bank>
