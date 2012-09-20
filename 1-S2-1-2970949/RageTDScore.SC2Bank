@@ -5,7 +5,7 @@
             <Value int="3"/>
         </Key>
         <Key name="XP">
-            <Value fixed="219816.1677"/>
+            <Value fixed="228760.6496"/>
         </Key>
         <Key name="Mode">
             <Value int="1"/>
@@ -26,5 +26,5 @@
             <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="6F4849BC0D44553914AB3F3B5A457A5518258B27"/>
+    <Signature value="D980116B2CC3AE727CA3229BB3430CF54A619549"/>
 </Bank>
