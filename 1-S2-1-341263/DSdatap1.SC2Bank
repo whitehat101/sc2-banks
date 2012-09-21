@@ -5,13 +5,13 @@
             <Value int="5"/>
         </Key>
         <Key name="XPp">
-            <Value int="65"/>
+            <Value int="79"/>
         </Key>
         <Key name="Wins">
-            <Value int="9"/>
+            <Value int="11"/>
         </Key>
         <Key name="Games Played">
-            <Value int="17"/>
+            <Value int="18"/>
         </Key>
         <Key name="XPt">
             <Value int="2"/>
@@ -24,8 +24,8 @@
     </Section>
     <Section name="Team Code">
         <Key name="Last Team">
-            <Value string="28271.48"/>
+            <Value string="-114550.78"/>
         </Key>
     </Section>
-    <Signature value="557463E1A0C1B68ABAFB1BCF0218EB8EDA7330EC"/>
+    <Signature value="7D0E9F9C5ABD6A9187BF123A8A858F8A20953C1B"/>
 </Bank>
