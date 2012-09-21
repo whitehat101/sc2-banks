@@ -5,7 +5,7 @@
             <Value int="3"/>
         </Key>
         <Key name="XP">
-            <Value fixed="238001.5556"/>
+            <Value fixed="254862.188"/>
         </Key>
         <Key name="Mode">
             <Value int="1"/>
@@ -17,7 +17,7 @@
             <Value int="2"/>
         </Key>
         <Key name="Wins">
-            <Value int="15"/>
+            <Value int="16"/>
         </Key>
         <Key name="Thiefs">
             <Value int="3"/>
@@ -26,5 +26,5 @@
             <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="5FF1F1043FDC2459E166CE329A5902DE4B144CB5"/>
+    <Signature value="5F0E4ACDBF88D4C25C0A7B4505676DD857E1679D"/>
 </Bank>
