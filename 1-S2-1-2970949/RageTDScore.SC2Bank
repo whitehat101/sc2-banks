@@ -5,13 +5,13 @@
             <Value int="3"/>
         </Key>
         <Key name="XP">
-            <Value fixed="272442.7473"/>
+            <Value fixed="272448.6391"/>
         </Key>
         <Key name="Mode">
             <Value int="1"/>
         </Key>
         <Key name="Speed">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="Loses">
             <Value int="2"/>
@@ -26,5 +26,5 @@
             <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="B0D491551C9C6115AD209B7FA295B064A41E0182"/>
+    <Signature value="1B919CD89861D25B5DF17F6B6240C2001227F712"/>
 </Bank>
